@@ -18,6 +18,7 @@ namespace XBCAD_Stock_Taking_application
         private ArrayList brandNames = new ArrayList();
         private ArrayList catergoryNames = new ArrayList();
         private ArrayList subCatergoryNames = new ArrayList();
+        private int test;
         
         public View_Stock_Finance()
         {
